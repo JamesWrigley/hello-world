@@ -18,3 +18,5 @@ Let's look at lists with some of my favourite programs and their atributes:
   1. Very competent 3D content creation suite
   2. It can do anything, dishwashing capabilities coming in version 42
   3. It has a monkey for a mascot
+
+I've also got some screenshots of these in [another file](Screenshots.md).
